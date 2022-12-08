@@ -22,7 +22,7 @@
  ***************************************************************************/
 """
 from functools import partial
-import json
+import simplejson as json
 import time
 
 from qgis.PyQt import QtCore, QtGui, QtWidgets

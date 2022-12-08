@@ -1,4 +1,4 @@
-import json
+import simplejson as json
 from qgis.PyQt import QtGui, QtCore, QtWidgets, QtNetwork
 
 
